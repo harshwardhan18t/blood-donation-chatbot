@@ -1,0 +1,26 @@
+body
+{
+    margin: 0;
+}
+
+.title h1
+{
+    position: absolute;
+    top: 26px;
+    left: 450px;
+    font-size: 50px;
+}
+
+.bgimg img
+{
+    background-size: cover;
+    position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.bot iframe
+{
+    top: 170px;
+    left: 450px;
+}
